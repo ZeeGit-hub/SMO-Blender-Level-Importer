@@ -21,7 +21,7 @@ Instructions:
 press on the folder icon on the right of it, then navigate to the OdysseyModels folder in the OdysseyEditor (EditorCore) once viewing the folder with all of the .objs,
 press Accept.
 
-( Optional settings: "Exclude Objects", you can type in the name of objects to exclude them from  being imported, it is recommended that you add AreaCubeBase for an exclusion. 
+( Optional settings: "Exclude Objects", you can type in the name of objects to exclude them from  being imported, it is recommended that you add Mesh1_Model for an exclusion. 
 "Enable Debug Logging", Enables advanced debugging, ! THIS WILL SLOW THINGS DOWN ! )
 
 Mandatory Option: Scenario Number, Selects one of the 14 scenarios for a level.
