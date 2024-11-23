@@ -26,10 +26,10 @@ press Accept.
 
 Mandatory Option: Scenario Number, Selects one of the 14 scenarios for a level.
 
-4. Obtaining XML for level: In OdysseyEditor (EditorCore) Open a stage of choice. once open, press Level files > XXXXXX.byml. (the byml that you should choose will
-look like this: ForestWorldHomeStageMap and not this: ForestWorldHomeStage_7_x_02.byml) make sure to choose the right one.
+4. Obtaining XML for level: In OdysseyEditor (EditorCore) Open a stage of choice. once open, press Level files > XXXXXX.byml. (The byml that you should choose will
+look like this: ForestWorldHomeStageMap and not this: ForestWorldHomeStage_7_x_02.byml), Make sure to choose the right one.
 Now, click on the correct .byml, and it will open a small window. You'll see a lot of +dictionary stuff. Right click on the white space next to it, then press "Export as XML"
-Save it to somewhere easily accesible for blender, name it what you'd like.
+Save it to somewhere easily accessible for Blender, name it what you'd like.
 
 5. Finally back in Blender, press File > Import > Import SMO Level XML, this will open a file browser window, navigate to the .xml file you saved, click on it, then press
 Import. Blender will be frozen temporarily, time varies on how big the stage is. Rotate the map by 90 degrees on the X axis. It will probably be massive, so scale it to .001.
