@@ -36,3 +36,6 @@ Import. Blender will be frozen temporarily, time varies on how big the stage is.
 Then press View > Frame Selected
 
 Enjoy ripping levels from Super Mario Odyssey.
+
+DAE IMPORTER INSTRUCTIONS:
+1. Not yet, still being worked on.
