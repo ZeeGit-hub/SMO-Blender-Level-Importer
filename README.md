@@ -32,4 +32,7 @@ Now, click on the correct .byml, and it will open a small window. You'll see a l
 Save it to somewhere easily accesible for blender, name it what you'd like.
 
 5. Finally back in Blender, press File > Import > Import SMO Level XML, this will open a file browser window, navigate to the .xml file you saved, click on it, then press
-Import. Blender will be frozen temporarily, time varies on how big the stage is. 
+Import. Blender will be frozen temporarily, time varies on how big the stage is. Rotate the map by 90 degrees on the X axis. It will probably be massive, so scale it to .001.
+Then press View > Frame Selected
+
+Enjoy ripping levels from Super Mario Odyssey.
