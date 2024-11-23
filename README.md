@@ -4,7 +4,7 @@ Blender plugin to import Super Mario Odyssey stages into Blender.
 Credits: exelix, MonsterDruide1, ChatGPT, Zee
 
 Requirements:
-EditorCore with Super Mario Odyssey plugin & Blender 3.0+ (Not tested with 4.0+, should still work though)
+EditorCore with Super Mario Odyssey plugin & Blender 3.6 (Tested on 3.6 and 4.2, DOES NOT WORK ON 4.0+!)
 
 This tutorial assumes that you already have EditorCore installed and set up. If not, get it here: 
 https://github.com/exelix11/EditorCore
