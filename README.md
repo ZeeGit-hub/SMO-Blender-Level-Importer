@@ -6,13 +6,14 @@ Credits: exelix, MonsterDruide1, ChatGPT, Zee
 Requirements:
 EditorCore with Super Mario Odyssey plugin & Blender 3.0+ (Not tested with 4.0+, should still work though)
 
-This tutorial assumes that you already have EditorCore installed and set up. If not, get it here: https://github.com/exelix11/EditorCore
+This tutorial assumes that you already have EditorCore installed and set up. If not, get it here: 
+https://github.com/exelix11/EditorCore
 and the Odyssey plugin here:
 https://github.com/exelix11/OdysseyEditor
 
 Instructions:
 
-1. Install OdysseyImportComplete.py
+1. Install OdysseyImportComplete.py from the Releases tab
 
 2. Install the Blender plugin: In blender, go to Edit > Preferences > Install, go through the file system and select OdysseyImportComplete.py, then click Install Addon
 
